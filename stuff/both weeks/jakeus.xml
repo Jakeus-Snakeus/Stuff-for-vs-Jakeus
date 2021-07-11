@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zardy.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="5" y="5" width="813" height="813"/>
+	<SubTexture name="Idle0001" x="5" y="5" width="813" height="813"/>
+	<SubTexture name="Idle0002" x="828" y="5" width="813" height="813"/>
+	<SubTexture name="Idle0003" x="828" y="5" width="813" height="813"/>
+	<SubTexture name="Idle0004" x="1651" y="5" width="813" height="813"/>
+	<SubTexture name="Sing Down0000" x="2474" y="5" width="813" height="813" frameX="0" frameY="0" frameWidth="813" frameHeight="814"/>
+	<SubTexture name="Sing Left0000" x="1651" y="828" width="813" height="813" frameX="0" frameY="0" frameWidth="815" frameHeight="816"/>
+	<SubTexture name="Sing Right0000" x="828" y="1651" width="813" height="813" frameX="-1" frameY="-3" frameWidth="814" frameHeight="816"/>
+	<SubTexture name="Sing Up0000" x="5" y="2474" width="813" height="813"/>
+</TextureAtlas>
